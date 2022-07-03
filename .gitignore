@@ -37,6 +37,7 @@ target/
 .classpath
 .project
 .settings/org.eclipse.buildship.core.prefs
+src/test/resources/config
 .vscode
 /gradlew
 /gradlew.bat
