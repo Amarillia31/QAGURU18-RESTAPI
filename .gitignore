@@ -41,3 +41,4 @@ src/test/resources/config
 .vscode
 /gradlew
 /gradlew.bat
+src/test/resources/apps
